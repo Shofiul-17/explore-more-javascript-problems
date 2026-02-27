@@ -12,3 +12,4 @@ function radianToDegree(degree){
 const myRadian = 10;
 const degree = radianToDegree(myRadian);
 console.log(degree)
+
